@@ -1,1 +1,3 @@
 npm run + nome do arquivo
+
+npm run server // rodar servidor pasta dist
