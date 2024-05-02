@@ -1,3 +1,10 @@
 npm run + nome do arquivo
 
 npm run server // rodar servidor pasta dist
+
+npm run start // abre no navegador
+
+
+npm run watch //  compila  tudo e depois ele 
+fica olhando se algum arquivo mexeu para que
+ você possa ver na sua aplicação.
